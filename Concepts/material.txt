@@ -1,0 +1,17 @@
+OOPS
+https://www.geeksforgeeks.org/object-oriented-programming-in-cpp/
+
+Polymorphism 
+https://www.geeksforgeeks.org/cpp-polymorphism/?ref=shm
+
+Inheritance 
+https://www.geeksforgeeks.org/inheritance-in-c/?ref=shm
+
+New vs malloc and delete vs free (very very important)
+https://www.geeksforgeeks.org/new-vs-malloc-and-free-vs-delete-in-c/
+
+Try catch
+https://www.geeksforgeeks.org/exception-handling-c/
+
+Virtual table and pointers
+https://www.geeksforgeeks.org/vtable-and-vptr-in-cpp/
